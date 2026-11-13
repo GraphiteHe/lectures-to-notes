@@ -1,0 +1,2 @@
+openai>=1.60,<4
+dashscope>=1.24,<3
